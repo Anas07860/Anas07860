@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anas ahmed ather" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas ahmed ather" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/anas ahmed ather](https://www.linkedin.com/in/anas-ahmed-ather-164192210/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas ahmed ather" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_anas_ahmed_ather" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_anas_ahmed_ather" height="30" width="40" /></a>
 </p>
 
